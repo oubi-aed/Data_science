@@ -8,3 +8,4 @@ The final data is stored in [`.data/final](data\final\Load_weather_history.csv) 
 A
 Take note, that the file is lager than the github limit of 100MB, so it is stored using [Git LFS](https://git-lfs.github.com/).
 
+dieses Repository ist eine Vorlage für die Ordnerstruktur von Julian
